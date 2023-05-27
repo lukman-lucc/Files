@@ -1,0 +1,4 @@
+1|One Peace|Eiichiro Oda|1997|105|Shueisha|Komik|ONE_PEACE.jpg|
+2|Ensiklopedia Anak Hebat Negara|Choi You Seong|2018|17|Bhuana Ilmu Populer|Ensiklopedia|anak.jpg|
+3|Bibi Gill|Tere Liye|2022|500|Gramedia Pustaka Utama|Fantasi|Bibi-Gill.png|
+4|Laut Bercerita|Leila S. Chudori|2017|379|Perpustakaan Populer Gramedia|Novel|laut.jpg|
